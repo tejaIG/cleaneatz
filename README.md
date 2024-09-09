@@ -3,7 +3,7 @@
 <img width="60" height="68" alt="EverShop Logo" src="https://evershop.io/img/logo.png"/>
 </p>
 <p align="center">
-  <h1 align="center">EverShop</h1>
+  <h1 align="center">Yenthrudu</h1>
 </p>
 <h4 align="center">
     <a href="https://evershop.io/docs/development/getting-started/introduction">Documentation</a> |
